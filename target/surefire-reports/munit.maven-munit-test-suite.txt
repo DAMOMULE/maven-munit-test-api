@@ -1,5 +1,5 @@
 SUCCESS - Test maven-munit-test-suite-maven-munit-test-apiFlowTest finished Successfully.
 
 =============================================================================
-Tests run: 1 - Failures: 0 - Errors: 0 - Skipped: 0 - Time elapsed: 0.602 sec
+Tests run: 1 - Failures: 0 - Errors: 0 - Skipped: 0 - Time elapsed: 0.624 sec
 =============================================================================
