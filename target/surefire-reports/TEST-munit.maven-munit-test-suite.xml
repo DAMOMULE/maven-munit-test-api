@@ -1,4 +1,4 @@
-<testsuite name="maven-munit-test-suite" time="0.624" failures="0" errors="0" skipped="0" tests="1">
+<testsuite name="maven-munit-test-suite" time="0.892" failures="0" errors="0" skipped="0" tests="1">
   <properties>
     <property key="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property key="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib"/>
@@ -31,7 +31,7 @@
     <property key="java.specification.name" value="Java Platform API Specification"/>
     <property key="java.class.version" value="52.0"/>
     <property key="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property key="os.version" value="10.12.5"/>
+    <property key="os.version" value="10.13.1"/>
     <property key="library.jansi.path" value="/usr/local/apache-maven-3.5.0/lib/jansi-native/osx64"/>
     <property key="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property key="user.home" value="/Users/Damu"/>
@@ -42,7 +42,7 @@
     <property key="java.class.path" value="/usr/local/apache-maven-3.5.0/boot/plexus-classworlds-2.5.2.jar"/>
     <property key="user.name" value="Damu"/>
     <property key="java.vm.specification.version" value="1.8"/>
-    <property key="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher deploy"/>
+    <property key="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package"/>
     <property key="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre"/>
     <property key="sun.arch.data.model" value="64"/>
     <property key="user.language" value="en"/>
@@ -64,5 +64,5 @@
     <property key="mule.testingMode" value="true"/>
     <property key="mule.working.dir" value="/MuleTraining/maven-munit-test-api/target/.mule"/>
   </properties>
-  <testcase time="0.102" name="maven-munit-test-suite-maven-munit-test-apiFlowTest" classname="maven-munit-test-suite"/>
+  <testcase time="0.137" name="maven-munit-test-suite-maven-munit-test-apiFlowTest" classname="maven-munit-test-suite"/>
 </testsuite>
