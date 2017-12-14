@@ -32,7 +32,7 @@
         <username>j4fcool2</username>
         <password>Sachhinoda1</password>
         <redeploy>true</redeploy>
-        <environment>SANDBOX</environment>
+        <environment>Sandbox</environment>
     </configuration>
     <executions>
         <execution>
