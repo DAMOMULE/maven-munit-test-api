@@ -28,7 +28,7 @@
     <configuration>
         <deploymentType>cloudhub</deploymentType>
         <!-- muleVersion is the runtime version as it appears on the CloudHub interface -->
-        <muleVersion>3.7.0</muleVersion>
+        <muleVersion>3.8.4</muleVersion>
         <username>j4fcool2</username>
         <password>Sachhinoda1</password>
         <redeploy>true</redeploy>
